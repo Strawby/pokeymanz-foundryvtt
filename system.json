@@ -1,0 +1,13 @@
+{userData}/Data/systems/mysystem/
+system.json
+mysystem.mjs
+module/
+  data-models.mjs
+  documents.mjs
+styles/
+  system-styles.css
+packs/
+  monsters/
+  items/
+lang/
+  en.json
